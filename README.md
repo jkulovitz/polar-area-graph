@@ -1,9 +1,11 @@
 # polar-area-graph
 polar area chart.js graph with varying angles
 
-to start server
-npm start
+## Installation
 
-to start client
-cd client
-npm run serve
+* Clone the repository
+* Navigate to the project root and execute `npm install`
+* run `pm start`to start server
+
+* Navigate to client root and execute `npm install`
+* run `npm run serve` to start client
